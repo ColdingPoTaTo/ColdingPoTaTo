@@ -11,7 +11,7 @@
 ### Know more about me:
 
 <p>👉Check out <a href="https://www.linkedin.com/in/hsin-hui-wu-0b1284210/">LinkedIn</a></p>
-<p>👉Take a look for my <a href="https://coldingpotato.github.io/resume.html">Resume</a></p>
+<p>👉Take a look at my <a href="https://coldingpotato.github.io/resume.html">Resume</a></p>
 <br/>
 
 ## Languages and Tools:
