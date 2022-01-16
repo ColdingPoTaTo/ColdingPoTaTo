@@ -1,20 +1,17 @@
-### Hi there, I'm William 👋
+### 👋 Hi there, I'm William 🎉
 
-## I'm a beginner of coding and I love it!!
+## I'm a beginner of coding and I enjoy it!!
 
 - 🚀 I’m currently learning everything
 - ❤ I love to share my knowledge
 - 👯 I'd like to listen to your story
 - 🤿 Interest - Photograph, Scuba Diving, Freediving
-- 🏁 2021 Goals: Contribute more projects
+- 🏁 2022 Goals: Contribute more projects
 
-### Contect with me:
+### Know more about me:
 
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> 
-https://www.linkedin.com/in/hsin-hui-wu-0b1284210/
-<br/>
-[My resume](https://coldingpotato.github.io/resume.html)
-
+<p>👉Check out <a href="https://www.linkedin.com/in/hsin-hui-wu-0b1284210/">LinkedIn</a></p>
+<p>👉Take a look for my <a href="https://coldingpotato.github.io/resume.html">Resume</a></p>
 <br/>
 
 ## Languages and Tools:
@@ -24,11 +21,17 @@ https://www.linkedin.com/in/hsin-hui-wu-0b1284210/
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+<img align="left" alt="AJAX" width="26px" src="https://raw.githubusercontent.com/github/explore/8be26d91eb231fec0b8856359979ac09f27173fd/topics/ajax/ajax.png" />
+<img align="left" alt="Vuejs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 <br />
 
 ### ◆ Back-end:
 
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="MSSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+
 <br />
 
 ### ◆ Others:
