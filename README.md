@@ -1,6 +1,7 @@
-### 👋 Hi there, I'm William 🎉
+<h1 align="center"> 👋 Hi there, I'm William 🎉 </h1>
 
-## I'm a beginner of coding and I enjoy it!!
+
+### I'm a beginner of coding and I enjoy it!!
 
 - 🚀 I’m currently learning everything
 - ❤ I love to share my knowledge
